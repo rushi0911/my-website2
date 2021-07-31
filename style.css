@@ -1,0 +1,95 @@
+body{
+    margin: 0px;
+    text-align: center;
+   background-color: rgb(248, 183, 183);
+}
+h1{
+    width: 5%;
+   margin: auto;
+    font-size: 40px;
+    font-family: 'Style Script', cursive;  
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.top-container{
+    background-color: rgba(163, 198, 245, 0.767);
+    
+}
+
+.mountain{
+    position: relative;
+    left: 150px;
+    
+}
+.cloud1{
+    position: relative;
+    bottom: 490px;
+}
+.cloud2{
+    position: relative;
+    right: 800px;
+    bottom: 200px;
+}
+.hello{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 30px;
+    margin-top: 100px;
+    
+}
+
+.photo{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+   
+}
+.skill{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 30px;
+    margin-top: 50px;
+    
+}
+.skillpic{
+    border-radius: 100%;
+    width: 24%;
+    float: right;
+    margin-right: 30px;
+}
+.mass{
+    color: aquamarine;
+}
+.contact{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: left;
+    margin-bottom: 100px;
+}
+.contact-pic{
+    border-radius: 100%;
+    width: 23%;
+    float: left;
+    margin-right: 30px;
+}
+.instagram{
+    
+    width: 10%;
+    
+
+}
+.linkedin{
+    width: 10%;
+}
+
+
+
+
+
+
